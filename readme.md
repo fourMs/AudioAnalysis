@@ -1,14 +1,8 @@
-# SoundAnalysis 
-
-Version: 	   0.6  
-Created date:  2007-01-21  
-Modified date: 2011-11-30  
-
-
 ## Description
 
 Realtime sound analysis, both physical and perceptual measures: brightness, loudness, noisiness, pitch estimation, spectrogram and BARK scale spectrogram. 
 
+![AudioAnalysis](https://raw.githubusercontent.com/fourMs/AudioAnalysis/master/documentation/SoundAnalysis-screenshot.png)
 
 ## Requirements
 
@@ -26,7 +20,6 @@ University of Oslo, Department of Musicology, fourMs lab
 
 Released under the GPL license
 http://www.gnu.org/copyleft/gpl.html
-
 
 
 ## History
